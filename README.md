@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structure And Algorithm**
 
-- 👨‍💻 All of my projects are available at [www.github.com/programmer-jaf](www.github.com/programmer-jaf)
+- 👨‍💻 All of my projects are available at [www.github.com/programmer-jaf](programmer-jaf)
 
 - 💬 Ask me about **Html,CSS,JavaScript,Node,Express,React.js,Next.js,MongoDB,Redis,GraphQL,Docker,React Native,Java,C,C++,Typescript**
 
